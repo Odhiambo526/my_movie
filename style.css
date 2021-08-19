@@ -12,9 +12,7 @@
 }
 
 body {
-   background: #8E0E00;  /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
-   background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   background-color: tomato;
    font-family: 'Open Sans';
    margin: 0;
 }
@@ -23,9 +21,7 @@ header {
     padding: 1rem;
     display: flex;
     justify-content: flex-end;
-    background: #8E0E00;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: tomato;
 }
 
 h1 {
@@ -35,7 +31,7 @@ h1 {
    text-align: center;
    font-family: 'Lobster';
    font-weight: bolder;
-   color: #cf0000;
+   color: #fff;
    font-size: 40px;
 }
 
